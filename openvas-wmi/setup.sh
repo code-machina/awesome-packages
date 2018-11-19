@@ -100,4 +100,5 @@ cd ./wmi-1.3.14
 echo "make GNuMakeFile"
 sudo make "$optinfo"
 
+
 # test script
